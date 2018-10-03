@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPUtilitieServices", "ConsoleApplication1\SPUtilitieServices.csproj", "{489DE180-0BF0-4113-8E7A-24F59612E87D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{489DE180-0BF0-4113-8E7A-24F59612E87D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{489DE180-0BF0-4113-8E7A-24F59612E87D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{489DE180-0BF0-4113-8E7A-24F59612E87D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{489DE180-0BF0-4113-8E7A-24F59612E87D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6A01951-A1F9-4C13-ADFD-212EAD5E7BDC}
+	EndGlobalSection
+EndGlobal

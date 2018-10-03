@@ -1,0 +1,11 @@
+E:\repos\sharepointsolutions\SPUtilitieServices\ConsoleApplication1\bin\Release\SPUtilitieServices.dll.config
+E:\repos\sharepointsolutions\SPUtilitieServices\ConsoleApplication1\bin\Release\SPUtilitieServices.dll
+E:\repos\sharepointsolutions\SPUtilitieServices\ConsoleApplication1\bin\Release\SPUtilitieServices.pdb
+E:\repos\sharepointsolutions\SPUtilitieServices\ConsoleApplication1\bin\Release\Newtonsoft.Json.dll
+E:\repos\sharepointsolutions\SPUtilitieServices\ConsoleApplication1\bin\Release\Newtonsoft.Json.xml
+E:\repos\sharepointsolutions\SPUtilitieServices\ConsoleApplication1\obj\Release\SPUtilitieServices.csprojAssemblyReference.cache
+E:\repos\sharepointsolutions\SPUtilitieServices\ConsoleApplication1\obj\Release\SPUtilitieServices.csproj.ResolveComReference.cache
+E:\repos\sharepointsolutions\SPUtilitieServices\ConsoleApplication1\obj\Release\SPUtilitieServices.csproj.CoreCompileInputs.cache
+E:\repos\sharepointsolutions\SPUtilitieServices\ConsoleApplication1\obj\Release\SPUtilitieServices.csproj.CopyComplete
+E:\repos\sharepointsolutions\SPUtilitieServices\ConsoleApplication1\obj\Release\SPUtilitieServices.dll
+E:\repos\sharepointsolutions\SPUtilitieServices\ConsoleApplication1\obj\Release\SPUtilitieServices.pdb

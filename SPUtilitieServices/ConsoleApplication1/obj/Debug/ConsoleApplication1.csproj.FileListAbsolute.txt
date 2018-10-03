@@ -1,0 +1,54 @@
+C:\Users\tmorei.BRASILCENTER\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\tmorei.BRASILCENTER\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\tmorei.BRASILCENTER\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\tmorei.BRASILCENTER\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\tmorei.BRASILCENTER\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\tmorei.BRASILCENTER\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Microsoft.SharePoint.dll
+C:\Users\tmorei.BRASILCENTER\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Microsoft.SharePoint.Security.dll
+C:\Users\tmorei.BRASILCENTER\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Microsoft.SharePoint.Search.dll
+C:\Users\tmorei.BRASILCENTER\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Microsoft.Web.CommandUI.dll
+C:\Users\tmorei.BRASILCENTER\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Microsoft.BusinessData.dll
+C:\Users\tmorei.BRASILCENTER\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Microsoft.SharePoint.xml
+C:\Users\tmorei.BRASILCENTER\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Microsoft.SharePoint.Client.xml
+C:\Users\tmorei.BRASILCENTER\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Microsoft.SharePoint.Client.Runtime.xml
+C:\Users\tmorei.BRASILCENTER\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Microsoft.SharePoint.Security.xml
+C:\Users\tmorei.BRASILCENTER\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Microsoft.SharePoint.Search.xml
+C:\Users\tmorei.BRASILCENTER\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Microsoft.BusinessData.xml
+C:\Users\tmorei.BRASILCENTER\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\tmorei.BRASILCENTER\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\tmorei.BRASILCENTER\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tmorei.BRASILCENTER\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tmorei.BRASILCENTER\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\microsoft.sharepoint.WorkflowActions.dll
+C:\Users\tmorei.BRASILCENTER\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\microsoft.sharepoint.WorkflowActions.xml
+C:\Users\tmorei.BRASILCENTER\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Microsoft.Web.Administration.dll
+C:\Users\tmorei.BRASILCENTER\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojAssemblyReference.cache
+C:\Users\tmorei.BRASILCENTER\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+C:\Users\tmorei.BRASILCENTER\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CopyComplete
+E:\TMOREI\Projetos\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojAssemblyReference.cache
+E:\TMOREI\Projetos\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+E:\TMOREI\Projetos\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\TMOREI\Projetos\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\TMOREI\Projetos\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\TMOREI\Projetos\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\TMOREI\Projetos\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\TMOREI\Projetos\ConsoleApplication1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+E:\TMOREI\Projetos\ConsoleApplication1\ConsoleApplication1\bin\Debug\Microsoft.Web.Administration.dll
+E:\TMOREI\Projetos\ConsoleApplication1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+E:\TMOREI\Projetos\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CopyComplete
+E:\TMOREI\Projetos\ConsoleApplication1\ConsoleApplication1\bin\Debug\Microsoft.SharePoint.Client.dll
+E:\TMOREI\Projetos\ConsoleApplication1\ConsoleApplication1\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+E:\TMOREI\Projetos\ConsoleApplication1\ConsoleApplication1\bin\Debug\Microsoft.SharePoint.dll
+E:\TMOREI\Projetos\ConsoleApplication1\ConsoleApplication1\bin\Debug\Microsoft.SharePoint.Security.dll
+E:\TMOREI\Projetos\ConsoleApplication1\ConsoleApplication1\bin\Debug\microsoft.sharepoint.WorkflowActions.dll
+E:\TMOREI\Projetos\ConsoleApplication1\ConsoleApplication1\bin\Debug\Microsoft.SharePoint.Search.dll
+E:\TMOREI\Projetos\ConsoleApplication1\ConsoleApplication1\bin\Debug\Microsoft.Web.CommandUI.dll
+E:\TMOREI\Projetos\ConsoleApplication1\ConsoleApplication1\bin\Debug\Microsoft.BusinessData.dll
+E:\TMOREI\Projetos\ConsoleApplication1\ConsoleApplication1\bin\Debug\Microsoft.SharePoint.xml
+E:\TMOREI\Projetos\ConsoleApplication1\ConsoleApplication1\bin\Debug\Microsoft.SharePoint.Client.xml
+E:\TMOREI\Projetos\ConsoleApplication1\ConsoleApplication1\bin\Debug\Microsoft.SharePoint.Client.Runtime.xml
+E:\TMOREI\Projetos\ConsoleApplication1\ConsoleApplication1\bin\Debug\Microsoft.SharePoint.Security.xml
+E:\TMOREI\Projetos\ConsoleApplication1\ConsoleApplication1\bin\Debug\microsoft.sharepoint.WorkflowActions.xml
+E:\TMOREI\Projetos\ConsoleApplication1\ConsoleApplication1\bin\Debug\Microsoft.SharePoint.Search.xml
+E:\TMOREI\Projetos\ConsoleApplication1\ConsoleApplication1\bin\Debug\Microsoft.BusinessData.xml
+E:\TMOREI\Projetos\ConsoleApplication1\ConsoleApplication1\obj\Debug\Interop.OWSSvrLib.dll
+E:\TMOREI\Projetos\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.ResolveComReference.cache
